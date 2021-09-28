@@ -30,7 +30,7 @@ A program megvalósításában több, manapság egyre népszerűbb és bonyolult
 
 ## Dokumentáció
 
-* [Doxygen]()
+* Doxygen
 
 ## Build
 
