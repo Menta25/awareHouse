@@ -34,7 +34,7 @@ A program megvalósításában több, manapság egyre népszerűbb és bonyolult
 
 ## Build
 
-* [Windows x64 binary]() _Hamarosan_
+* Windows x64 binary _Hamarosan_
 * Konzolból: _Hamarosan_
 ```console
 usr@pc:~$ cmake ...
