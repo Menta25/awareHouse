@@ -30,9 +30,7 @@ A program megvalósításában több, manapság egyre népszerűbb és bonyolult
 
 ## Dokumentáció
 
-* [Dokumentáció](https://szofttech.inf.elte.hu/szt-ab-2020212/group-04/awarehouse/-/wikis/aWareHouse-Dokument%C3%A1ci%C3%B3)
-
-* [Doxygen]() _Hamarosan_
+* [Doxygen]()
 
 ## Build
 
